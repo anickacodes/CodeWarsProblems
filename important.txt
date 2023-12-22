@@ -1,0 +1,11 @@
+
+In order to effectively solve a problem - it is best to have a set up that works regaardless of if the problem changes.
+How do you go about solving problems? 
+Below is an effective technique that I have used for years.
+
+
+ POLYA'S PROBLEM SOLVING TECHNIQUE
+1. What is the problem? What is the question asking you to do?
+2. Make a plan to solve it / satisfy requirements
+3. Implement the plan 
+4. Go back & check. If need be: Revise / Refactor
