@@ -1,5 +1,5 @@
 ## CodeWarsProblems
-This repo contains Solved Code Wars Problems
+This repo contains Solved Code Wars Problems in JAVASCRIPT
 
 >8kyu
 >
